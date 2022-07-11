@@ -1,10 +1,10 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: I Am Bhumit Soni
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+I Am A Web Developer 
+I Can Design Dynamic Website 
+  
 
